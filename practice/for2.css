@@ -1,0 +1,36 @@
+h1{
+    border : 4px solid black;
+}
+#you{
+    background-color: yellow;
+}
+h4{
+    color: purple;
+}
+#the{ 
+    color: purple;
+    text-decoration: overline;
+}
+#the1{
+    color: blue;
+    text-decoration: underline;
+}
+#the2{
+    border: 5px double grey;
+}
+h2{
+    color: purple;
+}
+#ok{
+    border: 2px solid red;
+}
+h3{
+    background-color:yellow;
+}
+.akash{
+    background-color: blue;
+    border: 6px dashed yellow;
+}
+body{
+    background-color: lightblue;
+}
